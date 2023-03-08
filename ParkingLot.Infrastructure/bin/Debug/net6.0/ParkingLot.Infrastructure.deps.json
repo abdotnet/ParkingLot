@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ParkingLot.Infrastructure/1.0.0": {
+        "runtime": {
+          "ParkingLot.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParkingLot.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
